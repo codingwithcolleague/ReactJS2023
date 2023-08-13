@@ -1,0 +1,21 @@
+
+{
+    "players":["Sachin","Dhoni","Kohli"],
+    "playersInfo":[
+        {
+            "name":"Sachin",
+            "runs":20000,
+            "loc":"Mumbai"
+        },
+        {
+            "name":"Dhoni",
+            "runs":10000,
+            "loc":"Ranchi"
+        },
+        {
+            "name":"Kohli",
+            "runs":5000,
+            "loc":"Delhi"
+        }
+    ]
+}
